@@ -4,7 +4,8 @@
 	- mendeklarasikan variabel int a,b,c sebagai variabel input
 	- menginputkan nilai a,b,c
 	- membandingkan nilai a,b,c dengan rumus if berikut kodenya
-		```if (A>B){
+		
+```if (A>B){
         		if (A>C)
            		 cout<< "Bilangan Terbesar Adalah :" << A;
         		else
@@ -13,8 +14,7 @@
         		if ( B>C )
             		cout << "Bilangan Terbesar Adalah:" << B;
        			 else
-            		cout << "Bilangan Terbesar Adalah:" << C;
-```
+            		cout << "Bilangan Terbesar Adalah:" << C;```
 
 - ini hasilnya
 ![img](https://raw.githubusercontent.com/aseps12/praktikum2/master/hasil1.png)
