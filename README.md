@@ -15,7 +15,8 @@
        			 else
             		cout << "Bilangan Terbesar Adalah:" << C;
 ```
-	- ini hasilnya
-	![img](https://raw.githubusercontent.com/aseps12/praktikum2/master/hasil1.png)
-	![img](https://raw.githubusercontent.com/aseps12/praktikum2/master/hasil2.png)
-	![img](https://raw.githubusercontent.com/aseps12/praktikum2/master/hasil3.png)
+
+- ini hasilnya
+![img](https://raw.githubusercontent.com/aseps12/praktikum2/master/hasil1.png)
+![img](https://raw.githubusercontent.com/aseps12/praktikum2/master/hasil2.png)
+![img](https://raw.githubusercontent.com/aseps12/praktikum2/master/hasil3.png)
